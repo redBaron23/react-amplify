@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+	  Puto el que lee
         </a>
       </header>
     </div>
